@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\repo\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\repo\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\appdatacontext\\appdatacontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\appdatacontext\\appdatacontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\dtos\\roomdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\dtos\\roomdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\dtos\\guestdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\dtos\\guestdtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\repo\\iguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\repo\\iguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\dtos\\staffdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\dtos\\staffdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\repo\\staffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\repo\\staffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\repo\\istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\repo\\istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Migrations\\20260615064354_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Holstic_LastDance\\Migrations\\20260615064354_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\repo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\repo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\repo\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\repo\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|c:\\users\\yassin.mohamed\\source\\repos\\holstic_lastdance\\holstic_lastdance\\holstic_lastdance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63AC8C81-D011-4498-B148-92BF9E60BE69}|Holstic_LastDance\\Holstic_LastDance.csproj|solutionrelative:holstic_lastdance\\holstic_lastdance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaffDtos.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\StaffDtos.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Dtos\\StaffDtos.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\StaffDtos.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Dtos\\StaffDtos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:53:32.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomDtoPost.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\RoomDtoPost.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Dtos\\RoomDtoPost.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\RoomDtoPost.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Dtos\\RoomDtoPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:13:45.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Room.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:24:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Controllers\\GuestController.cs*",
+              "RelativeToolTip": "Holstic_LastDance\\Controllers\\GuestController.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:45:14.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGuest.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\IGuest.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Repo\\IGuest.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\IGuest.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Repo\\IGuest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:09:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\GuestRepo.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Repo\\GuestRepo.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\GuestRepo.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Repo\\GuestRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:09:38.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Dtos\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\DepartmentDto.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Dtos\\DepartmentDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:46:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:44:58.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Guest.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Models\\Guest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:23:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Program.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Program.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Program.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:41:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDataContextt.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\AppDataContext\\AppDataContextt.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\AppDataContext\\AppDataContextt.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\AppDataContext\\AppDataContextt.cs",
+              "RelativeToolTip": "Holstic_LastDance\\AppDataContext\\AppDataContextt.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:31:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestDtoPost.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\GuestDtoPost.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Dtos\\GuestDtoPost.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Dtos\\GuestDtoPost.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Dtos\\GuestDtoPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:12:43.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Department.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:24:25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Models\\Staff.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:24:10.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaffRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\StaffRepo.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Repo\\StaffRepo.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\StaffRepo.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Repo\\StaffRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:59:27.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStaff.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\IStaff.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Repo\\IStaff.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\IStaff.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Repo\\IStaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:58:49.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:44:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260615064354_ff.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Migrations\\20260615064354_ff.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Migrations\\20260615064354_ff.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Migrations\\20260615064354_ff.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Migrations\\20260615064354_ff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:43:54.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\appsettings.json",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\appsettings.json",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\appsettings.json",
+              "RelativeToolTip": "Holstic_LastDance\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T06:42:29.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\Repo.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Repo\\Repo.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\Repo.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Repo\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:38:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Irepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\Irepo.cs",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Repo\\Irepo.cs",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Repo\\Irepo.cs",
+              "RelativeToolTip": "Holstic_LastDance\\Repo\\Irepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:37:34.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Holstic_LastDance",
+              "DocumentMoniker": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Holstic_LastDance.csproj",
+              "RelativeDocumentMoniker": "Holstic_LastDance\\Holstic_LastDance.csproj",
+              "ToolTip": "C:\\Users\\yassin.mohamed\\source\\repos\\Holstic_LastDance\\Holstic_LastDance\\Holstic_LastDance.csproj",
+              "RelativeToolTip": "Holstic_LastDance\\Holstic_LastDance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T06:23:14.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

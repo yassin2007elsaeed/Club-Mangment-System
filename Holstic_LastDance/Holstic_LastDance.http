@@ -1,0 +1,6 @@
+@Holstic_LastDance_HostAddress = http://localhost:5147
+
+GET {{Holstic_LastDance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
